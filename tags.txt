@@ -1,12 +1,15 @@
 object sync:I:0000CD
 object sync:Love:0000CD
 object sync:Claude:0000CD
+object sync:OwnerAlt:0000CD
 BlueLovesBlues:I:0000CD
 BlueLovesBlues:Love:0000CD
 BlueLovesBlues:Claude:0000CD
+BlueLovesBlues:OwnerMain:0000CD
 0x18:I:0000CD
 0x18:Love:0000CD
 0x18:Claude:0000CD
+0x18:OwnerMain:0000CD
 CookieLuvsddos:Testing Slave 2.0:4B0082
 bokitfuh:faggot:4B0082
 PINK_Z:i love AI:4B0082
