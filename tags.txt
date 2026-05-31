@@ -11,14 +11,10 @@ BlueLovesBlues:OwnerMain:0000CD
 0x18:Claude:0000CD
 0x18:OwnerAlt:0000CD
 Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
-Cookieluvsddos:Testing Slave 2.0:4B0082
+Cookieluvsddos:Testing Slave 2.01:4B0082
+Cookieluvsddos:Testing Slave 2.02:4B0082
+Cookieluvsddos:Testing Slave 2.03:4B0082
+Cookieluvsddos:Testing Slave 2.04:4B0082
 bokitfuh:faggot:4B0082
 PINK_Z:i love AI:4B0082
 Fallatical:Testing Slave 1.0
